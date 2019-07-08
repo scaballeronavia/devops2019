@@ -1,0 +1,1 @@
+Este archivo contiene texto para fix algunos bug.
