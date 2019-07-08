@@ -1,1 +1,3 @@
 ¿Qué es Jenkins?
+
+La integración continua es una práctica de desarrollo software donde los miembros del equipo integran su trabajo frecuentemente (como mínimo una vez al día, aunque normalmente se realizan múltiples integraciones diarias).
